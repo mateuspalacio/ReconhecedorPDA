@@ -1,0 +1,12 @@
+main(){
+int identificador1;
+int identificador2 = 1;
+boolean teste1;
+boolean teste2 = true;
+if(teste){
+if(teste==true){}
+}whie(teste)
+if(a==b){}
+}
+for(identificador;teste;identificador++){}
+}
